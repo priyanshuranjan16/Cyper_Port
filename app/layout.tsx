@@ -17,8 +17,8 @@ const orbitron = Orbitron({
 });
 
 export const metadata: Metadata = {
-  title: "Player 1 | Gaming Portfolio",
-  description: "A gaming-themed portfolio for a B.Tech student.",
+  title: "The Architect | Gaming Portfolio",
+  description: "A gaming-themed portfolio",
 };
 
 export default function RootLayout({
